@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: Shady Business
+## Notes: Warns you (only you) about suspicious group activity: loot rule changes, and healers who can't heal.
+## Author: Psipherious
+## Version: 0.1-test.07
+## SavedVariables: ShadyBusinessDB
+
+Core.lua
+Loot.lua
+Healer.lua
+Settings.lua

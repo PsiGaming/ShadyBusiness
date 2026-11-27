@@ -1,0 +1,6 @@
+# Lua files are indented with 2 spaces (decided 2026-11-19).
+root = true
+
+[*.lua]
+indent_style = space
+indent_size = 2
